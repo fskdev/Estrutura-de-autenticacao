@@ -1,4 +1,4 @@
-# Estrutura-de-autenticacao
+# Estrutura de autenticação
 Sistema de registro + autenticação via token feito em [ API NodeJS + Express + MongoDB ]
 <br>
 # Requisitos
